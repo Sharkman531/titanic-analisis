@@ -1,4 +1,4 @@
-# Análisis del Titanic 🚢
+# Análisis del Titanic
 
 Análisis exploratorio y modelo predictivo sobre los datos del Titanic
 de la competencia de Kaggle.
